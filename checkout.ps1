@@ -7,3 +7,4 @@ git clone git@github.com:pip-services-infrastructure/pip-facade-infrastructure-p
 git clone git@github.com:pip-services-users/pip-facade-users-ps.git
 git clone git@github.com:pip-services-content/pip-facade-content-ps.git
 git clone git@github.com:pip-services-support/pip-facade-support-ps.git
+git clone git@github.com:pip-services-ecommerce/pip-facade-ecommerce-ps.git
